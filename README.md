@@ -15,8 +15,8 @@ This is a React component that fetches and displays data about planets and their
 
 Follow this instructions to install
 
-1.At first clone this Project
-2.Then run npm install
-3.To run the project run this command:  npm run dev
-4.Open you browser and go to localhost:3000
-5.You can see the app running there!
+- At first clone this Project
+- Then run npm install
+- To run the project run this command:  npm run dev
+- Open you browser and go to localhost:3000
+- You can see the app running there!
