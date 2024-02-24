@@ -1,9 +1,8 @@
-import Image from "next/image";
-
+import Planet from "@/components/Planet/Planet";
 export default function Home() {
   return (
     <div>
-      Nothing is here
+      <Planet/>
     </div>
   );
 }
